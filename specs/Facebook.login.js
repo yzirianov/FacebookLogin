@@ -16,7 +16,7 @@ describe('Facebook login application', () => {
         expect(element).toHaveText('Facebook')
 
         })
-       // await expect(flashAlert).toBeExisting();
+       
         await expect(flashAlert).toHaveTextContaining('Facebook');
     });
 });
