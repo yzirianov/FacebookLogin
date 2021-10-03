@@ -1,9 +1,9 @@
 This is a Facebook login script
 Requirements
 
-    node >= 12.18.x - how to install Node
-    npm >= 6.14.x - [No explicit installation required, it comes with node]
-    Visual Studio Code - Click here to download
+    node >= 12.18.x 
+    npm >= 6.14.x 
+    Visual Studio Code 
 
 Getting Started
 
